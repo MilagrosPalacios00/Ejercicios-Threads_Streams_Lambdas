@@ -25,25 +25,25 @@ public class Alumno {
     String curso;
     double nota;
     int edad;
-}
-
-##Ejercicios
+} 
+```
+## Ejercicios
 
 Cree una lista y cargue un número considerable de alumnos (15 o más) con valores al azar.
 
 **Realice las siguientes operaciones utilizando Streams y Lambdas:**
+   
+- a) Muestre todos los alumnos de la lista.
 
-a) Muestre todos los alumnos de la lista.
+- b) Muestre todos los alumnos ordenados de menor a mayor por edad.
 
-b) Muestre todos los alumnos ordenados de menor a mayor por edad.
-
-c) Muestre aquellos alumnos cuyo nombre empieza con un carácter dado.
+- c) Muestre aquellos alumnos cuyo nombre empieza con un carácter dado.
 (Elija el carácter en base a la lista de nombres utilizada.)
 
-d) Sume la edad de todos los alumnos.
+- d) Sume la edad de todos los alumnos.
 
-e) Obtenga un mapa donde la clave sea la nota y el valor sea una lista de alumnos que tienen esa nota.
+- e) Obtenga un mapa donde la clave sea la nota y el valor sea una lista de alumnos que tienen esa nota.
 
-css
+
 
 
